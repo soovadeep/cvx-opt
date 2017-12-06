@@ -1,0 +1,15 @@
+((*- extends 'article.tplx' -*))
+
+((* block author *))
+\author{Soovadeep Bakshi}
+\author{Rohit Arora}
+((* endblock author *))
+
+((* block title *))
+\title{Generalized Lasso Problem}
+((* endblock title *))
+
+((* block bibliography *))
+\bibliographystyle{unsrt}
+\bibliography{sample}
+((* endblock bibliography *))
